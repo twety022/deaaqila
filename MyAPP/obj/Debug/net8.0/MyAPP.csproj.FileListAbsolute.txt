@@ -1,0 +1,14 @@
+C:\Users\ardiw\OneDrive\Documents\aniss\MyAPP\bin\Debug\net8.0\MyAPP.exe
+C:\Users\ardiw\OneDrive\Documents\aniss\MyAPP\bin\Debug\net8.0\MyAPP.deps.json
+C:\Users\ardiw\OneDrive\Documents\aniss\MyAPP\bin\Debug\net8.0\MyAPP.runtimeconfig.json
+C:\Users\ardiw\OneDrive\Documents\aniss\MyAPP\bin\Debug\net8.0\MyAPP.dll
+C:\Users\ardiw\OneDrive\Documents\aniss\MyAPP\bin\Debug\net8.0\MyAPP.pdb
+C:\Users\ardiw\OneDrive\Documents\aniss\MyAPP\obj\Debug\net8.0\MyAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardiw\OneDrive\Documents\aniss\MyAPP\obj\Debug\net8.0\MyAPP.AssemblyInfoInputs.cache
+C:\Users\ardiw\OneDrive\Documents\aniss\MyAPP\obj\Debug\net8.0\MyAPP.AssemblyInfo.cs
+C:\Users\ardiw\OneDrive\Documents\aniss\MyAPP\obj\Debug\net8.0\MyAPP.csproj.CoreCompileInputs.cache
+C:\Users\ardiw\OneDrive\Documents\aniss\MyAPP\obj\Debug\net8.0\MyAPP.dll
+C:\Users\ardiw\OneDrive\Documents\aniss\MyAPP\obj\Debug\net8.0\refint\MyAPP.dll
+C:\Users\ardiw\OneDrive\Documents\aniss\MyAPP\obj\Debug\net8.0\MyAPP.pdb
+C:\Users\ardiw\OneDrive\Documents\aniss\MyAPP\obj\Debug\net8.0\MyAPP.genruntimeconfig.cache
+C:\Users\ardiw\OneDrive\Documents\aniss\MyAPP\obj\Debug\net8.0\ref\MyAPP.dll
